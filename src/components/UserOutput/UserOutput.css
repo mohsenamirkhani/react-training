@@ -1,0 +1,15 @@
+.user-output {
+    width: 150px;
+    margin: 10px auto;
+    box-shadow: 4px 4px 5px 1px #dadada;
+    border: 1px solid #d6d6d6;
+    padding: 10px;
+}
+
+.user-output .delete-btn {
+    margin: 10px 0;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #d0d0d0;
+    box-shadow: 2px 3px 4px 2px #e2e2e26e;
+}

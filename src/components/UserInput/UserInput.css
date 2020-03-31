@@ -1,0 +1,20 @@
+.user-input {
+    margin: 10px auto;
+    display: flex;
+    flex-flow: column nowrap;
+    width: 250px
+}
+
+.user-input .input {
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #b1b1b1;
+}
+
+.user-input .add-btn {
+    margin: 10px 0;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #d0d0d0;
+    box-shadow: 2px 3px 4px 2px #e2e2e26e;
+}
